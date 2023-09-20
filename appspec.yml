@@ -5,3 +5,4 @@ files:
     destination: /var/www/html
   - source: css/style.css
     destination: /var/www/html/css
+file_exists_behavior: OVERWRITE
